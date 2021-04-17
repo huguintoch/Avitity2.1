@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Adrian",
+        "hobby": "Futbol",
+        "age": "21",
+        "phone": "1234567890",
+        "address": "Dirección 1 #1234"
+    },
+    {
+        "name": "Emilio",
+        "hobby": "Backetbol",
+        "age": "22",
+        "phone": "2345678901",
+        "address": "Dirección 2 #1234"
+    },
+    {
+        "name": "David",
+        "hobby": "Películas",
+        "age": "23",
+        "phone": "0234567891",
+        "address": "Dirección 3 #1234"
+    },
+    {
+        "name": "Nataly",
+        "hobby": "Piano",
+        "age": "19",
+        "phone": "1278903456",
+        "address": "Dirección 4 #1234"
+    },
+    {
+        "name": "Memo",
+        "hobby": "Guitarra",
+        "age": "20",
+        "phone": "6789012345",
+        "address": "Dirección 5 #1234"
+    },
+    {
+        "name": "Erick",
+        "hobby": "Videojuegos",
+        "age": "21",
+        "phone": "5678901234",
+        "address": "Dirección 6 #1234"
+    }
+]
