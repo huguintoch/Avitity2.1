@@ -40,5 +40,12 @@
         "age": "21",
         "phone": "5678901234",
         "address": "Dirección 6 #1234"
+    },
+    {
+        "name": "Daniel",
+        "hobby": "Lectura",
+        "age": "21",
+        "phone": "5678012934",
+        "address": "Dirección 7 #1234"
     }
 ]
